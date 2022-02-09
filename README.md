@@ -9,14 +9,14 @@ biasanya dipanggil Eko
 Kegiatan Pre-Bangkit
 
 **8 Februari 2022**
-**Belajar Git dan GitHub**
+**Belajar Git dan GitHub**  
 Pembelajaran ini melalui platform Dicoding
 - Persiapan Pembelajaran
 - Git dan GitHub
 - Git Dasar
 
 **9 Februari 2022**
-**Belajar Git dan GitHub** (Melanjutkan Modul)
+**Belajar Git dan GitHub** (Melanjutkan Modul)  
 Pembelajaran ini melalui platform Dicoding
 - Studi Kasus Pengalaman Belajar
 - Git Branches
